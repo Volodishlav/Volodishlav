@@ -67,8 +67,8 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Volodishlav&show_icons=true&theme=tokyonight&custom_title=Volodishlav's%20GitHub%20Stats)
-![GitHub Streak](https://streak-stats.demolab.com?user=Volodishlav&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Volodishlav&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volodishlav&layout=compact&theme=tokyonight)
 
