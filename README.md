@@ -65,15 +65,16 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 ### 📈 Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Volodishlav&show_icons=true&theme=tokyonight&custom_title=Volodishlav's%20GitHub%20Stats" />
-
-<img src="https://streak-stats.demolab.com?user=Volodishlav&theme=tokyonight" />
-
+</div>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Volodishlav&theme=tokyonight" alt="GitHub Streak" /></a>
+</div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volodishlav&layout=compact&theme=tokyonight" />
-
+</div>
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Volodishlav&theme=tokyo-night&hide_border=true&area=true&custom_title=Metrics" />
-
 </div>
 
 ---
