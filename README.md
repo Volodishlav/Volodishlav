@@ -80,7 +80,6 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Volodishlav&theme=tokyonight)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Volodishlav&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Volodishlav&theme=tokyonight)
