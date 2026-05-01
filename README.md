@@ -66,7 +66,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Volodishlav&theme=tokyonight&v=1" alt="GitHub streak" /></a>
-</div><br>
+</div>
 
 <!--
 
@@ -78,10 +78,14 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 </div><br>
 
 -->
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Volodishlav&theme=tokyonight">
+</div>
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Volodishlav&theme=tokyonight">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Volodishlav&theme=tokyonight">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Volodishlav&theme=tokyonight">
 </div>
 
 <div align="center">
