@@ -44,12 +44,11 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 <br>
 
 <h4>🛠️ Other tools</h4>
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 
-<h4>🖥️ Operative systems</h4>
+<h4>🖥️ OS</h4>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Parrot%20OS-15E0ED?style=flat-square&logo=parrotsecurity&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux%20Mint-69B53F?style=flat-square&logo=linuxmint&logoColor=white" />
