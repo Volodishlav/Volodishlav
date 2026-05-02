@@ -4,7 +4,7 @@
         <a href="https://github.com/Volodishlav/UMBAKL.py/graphs/contributors">
           <img src="https://contrib.rocks/image?repo=Volodishlav/UMBAKL.py" />
         </a>
-        <h4><🗡️ Pentester >·< Developer 🖥️></h4>
+        <h4>< Pentester >·< Developer ></h4>
     </p>
 </div>
 
