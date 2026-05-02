@@ -65,7 +65,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 ### 📈 Stats
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Volodishlav&theme=tokyonight&v=1" alt="GitHub streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=Volodishlav&theme=tokyonight&&hide_border=true">
 </div>
 
 <!--
@@ -89,7 +89,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Volodishlav&theme=tokyo-night&hide_border=true&area=true&custom_title=Metrics" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Volodishlav&theme=tokyo-night&hide_border=true&area=true&custom_title=Metrics">
 </div>
 
 ---
@@ -97,6 +97,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 ### 🌐 Contact
 
 - 📩 E-mail: linuxusercs47@gmail.com
+- 🔵 Discord: vladimir783
 
 <!--
 
