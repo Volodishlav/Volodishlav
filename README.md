@@ -96,7 +96,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 ### 🌐 Contact
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
         <a href="mailto:linuxusercs47@gmail.com">
