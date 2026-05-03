@@ -95,13 +95,18 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 ### 🌐 Contact
 
-<div style="display: flex; justify-content: center; gap: 5px; align-items: center;">
+<div align="center">
+
   <a href="mailto:linuxusercs47@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://discord.com/users/752882719901483109" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
+  
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://discord.com/users/752882719901483109">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
+
 </div>
 
 <!--
