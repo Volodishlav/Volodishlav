@@ -132,15 +132,15 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 <p align="center">
 
-<a href="mailto:linuxusercs47@gmail.com">
+<a href="mailto:linuxusercs47@gmail.com" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://discord.com/users/752882719901483109">
+<a href="https://discord.com/users/752882719901483109" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<a href="https://steamcommunity.com/id/Vladimir78310/">
+<a href="https://steamcommunity.com/id/Vladimir78310/" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
 
