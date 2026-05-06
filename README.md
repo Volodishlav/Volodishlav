@@ -108,12 +108,16 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Volodishlav&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Volodishlav&theme=tokyonight">
 </div>
 
+<!--
+
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Volodishlav&theme=tokyonight">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Volodishlav&theme=tokyonight">
 </div>
+
+-->
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Volodishlav&theme=tokyo-night&hide_border=true&area=true&custom_title=Metrics">
