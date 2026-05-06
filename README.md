@@ -57,6 +57,36 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
 
 </div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+<br>
+
+<img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white">
+<img src="https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Tails%20OS-56347C?style=for-the-badge&logo=tails&logoColor=white">
+<img src="https://img.shields.io/badge/Qubes%20OS-5E3B8C?style=for-the-badge&logo=qubesos&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Mozilla-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white">
+<img src="https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white">
+
+</div>
+
 <br>
 
 ---
@@ -97,6 +127,22 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 - 📩 E-mail: linuxusercs47@gmail.com
 - 🔵 Discord: vladimir783
+
+<p align="center">
+
+<a href="mailto:linuxusercs47@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://discord.com/users/752882719901483109">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="https://steamcommunity.com/id/Vladimir78310/">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+</a>
+
+</p>
 
 <!--
 ### Otras plataformas:
