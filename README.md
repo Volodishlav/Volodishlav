@@ -123,8 +123,12 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 ### 🌐 Contact
 
+<!--
+
 - 📩 E-mail: linuxusercs47@gmail.com
 - 🔵 Discord: vladimir783
+
+-->
 
 <p align="center">
 
