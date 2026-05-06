@@ -81,7 +81,6 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 <br>
 
-<img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white">
 <img src="https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white">
 
 </div>
