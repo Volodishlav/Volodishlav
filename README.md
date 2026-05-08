@@ -92,7 +92,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 ### 📈 Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Volodishlav&theme=tokyonight&&hide_border=true">
+  <img src="https://github-readme-streak-stats-sand-zeta-76.vercel.app?user=Volodishlav&theme=tokyonight&hide_border=true&fire=EB6FB9" alt="GitHub Streak" />
 </div>
 
 <!--
