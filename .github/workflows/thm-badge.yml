@@ -16,3 +16,4 @@ jobs:
       - uses: KeizerSec/Tryhackme-Badge@v1
         with:
           username: Vladimir783
+          theme: synthwave
