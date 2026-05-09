@@ -74,13 +74,13 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 <br>
 
-<img src="https://img.shields.io/badge/Mozilla-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Mozilla-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"> -->
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white">
 
 <br>
 
-<img src="https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white"> -->
 
 </div>
 
