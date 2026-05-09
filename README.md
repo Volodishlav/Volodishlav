@@ -1,3 +1,4 @@
+<!--
 <div align="center">
     <p align="center">
         <a href="https://github.com/Volodishlav/UMBAKL.py/graphs/contributors">
@@ -6,6 +7,7 @@
         <h4>< Pentester >·< Developer ></h4>
     </p>
 </div>
+-->
 
 <div align="center">
   <p>
