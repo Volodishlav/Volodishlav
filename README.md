@@ -48,6 +48,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-d4245c?style=flat-square&logo=splunk&logoColor=white" />
 
 <h4>🖥️ OS</h4>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
