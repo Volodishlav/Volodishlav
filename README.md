@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Volodishlav</h1>
     <p align="center">
         <a href="https://github.com/Volodishlav/UMBAKL.py/graphs/contributors">
           <img src="https://contrib.rocks/image?repo=Volodishlav/UMBAKL.py" />
