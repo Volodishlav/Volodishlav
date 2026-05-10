@@ -72,15 +72,15 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
     <img src="https://custom-icon-badges.demolab.com/badge/VirtualBox-183A61.svg?logo=virtualbox&logoColor=white" alt="VirtualBox">
     <img src="https://custom-icon-badges.demolab.com/badge/Apache-D22128.svg?logo=apache&logoColor=white" alt="Apache">
     <img src="https://custom-icon-badges.demolab.com/badge/WordPress-21759B.svg?logo=wordpress&logoColor=white" alt="WordPress">
-    <img src="https://custom-icon-badges.demolab.com/badge/Django-092E20.svg?logo=django&logoColor=white" alt="Django">
+    <!--<img src="https://custom-icon-badges.demolab.com/badge/Django-092E20.svg?logo=django&logoColor=white" alt="Django">
     <img src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white" alt="Flask">
     <img src="https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white" alt="FastAPI">
-    <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL">-->
 
 <h3>⚙️ Programming and Markup Languages</h4>
     <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python">
     <img src="https://custom-icon-badges.demolab.com/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white" alt="Bash">
-    <img src="https://custom-icon-badges.demolab.com/badge/Nim-2B2B2B.svg?logo=nim&logoColor=white" alt="Nim">
+    <!--<img src="https://custom-icon-badges.demolab.com/badge/Nim-2B2B2B.svg?logo=nim&logoColor=white" alt="Nim">-->
     <img src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white" alt="HTML">
     <img src="https://custom-icon-badges.demolab.com/badge/CSS-1572B6.svg?logo=css3&logoColor=white" alt="CSS">
     <img src="https://custom-icon-badges.demolab.com/badge/JSON-000000.svg?logo=json&logoColor=white" alt="JSON">
