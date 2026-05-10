@@ -62,7 +62,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 <h3>🔌 Technologies</h4>
 <img src="https://skillicons.dev/icons?i=linux,git,github,vim,vscode,raspberrypi,docker,wordpress" />
 
-<h3>⚙️ Languages</h4>
+<h3>⚙️ Programming and Markup Languages</h4>
 <img src="https://skillicons.dev/icons?i=python,bash,html,css" />
 
 <br>
