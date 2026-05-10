@@ -36,7 +36,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 ### 🌍 Languages I Speak
 
-<div align="center">
+<div>
   <table>
     <tr>
     <!--<td align="center">
