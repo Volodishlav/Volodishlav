@@ -60,50 +60,68 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 <div align="center">
 
 <h3>🔌 Technologies</h4>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vim,vscode,raspberrypi,docker,wordpress" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Linux-1F1F1F.svg?logo=linux&logoColor=white" alt="Linux">
+    <img src="https://custom-icon-badges.demolab.com/badge/Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+    <img src="https://custom-icon-badges.demolab.com/badge/Arduino-00979D.svg?logo=arduino&logoColor=white" alt="Arduino">
+    <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white" alt="Git">
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" alt="GitHub">
+    <img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://custom-icon-badges.demolab.com/badge/Vim-019833.svg?logo=vim&logoColor=white" alt="Vim">
+    <img src="https://custom-icon-badges.demolab.com/badge/VSCode-007ACC.svg?logo=visualstudiocode&logoColor=white" alt="VSCode">
+    <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white" alt="Docker">
+    <img src="https://custom-icon-badges.demolab.com/badge/VirtualBox-183A61.svg?logo=virtualbox&logoColor=white" alt="VirtualBox">
+    <img src="https://custom-icon-badges.demolab.com/badge/Apache-D22128.svg?logo=apache&logoColor=white" alt="Apache">
+    <img src="https://custom-icon-badges.demolab.com/badge/WordPress-21759B.svg?logo=wordpress&logoColor=white" alt="WordPress">
+    <img src="https://custom-icon-badges.demolab.com/badge/Django-092E20.svg?logo=django&logoColor=white" alt="Django">
+    <img src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white" alt="Flask">
+    <img src="https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white" alt="FastAPI">
+    <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL">
 
 <h3>⚙️ Programming and Markup Languages</h4>
-<img src="https://skillicons.dev/icons?i=python,bash,html,css" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python">
+    <img src="https://custom-icon-badges.demolab.com/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white" alt="Bash">
+    <img src="https://custom-icon-badges.demolab.com/badge/Nim-2B2B2B.svg?logo=nim&logoColor=white" alt="Nim">
+    <img src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white" alt="HTML">
+    <img src="https://custom-icon-badges.demolab.com/badge/CSS-1572B6.svg?logo=css3&logoColor=white" alt="CSS">
+    <img src="https://custom-icon-badges.demolab.com/badge/JSON-000000.svg?logo=json&logoColor=white" alt="JSON">
+    <img src="https://custom-icon-badges.demolab.com/badge/YAML-CB171E.svg?logo=yaml&logoColor=white" alt="YAML">
+    <img src="https://custom-icon-badges.demolab.com/badge/XML-FF6600.svg?logo=file-code&logoColor=white" alt="XML">
+    <img src="https://custom-icon-badges.demolab.com/badge/Markdown-000000.svg?logo=markdown&logoColor=white" alt="Markdown">
 
 <br>
 
 <h4>🛠️ Other Tools</h4>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-d4245c?style=flat-square&logo=splunk&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Burp%20Suite-FF6633.svg?logo=burpsuite&logoColor=white" alt="Burp Suite">
+    <img src="https://custom-icon-badges.demolab.com/badge/Metasploit-2E2E2E.svg?logo=metasploit&logoColor=white" alt="Metasploit">
+    <img src="https://custom-icon-badges.demolab.com/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white" alt="Wireshark">
+    <img src="https://custom-icon-badges.demolab.com/badge/Splunk-d4245c.svg?logo=splunk&logoColor=white" alt="Splunk">
 
 <h4>🖥️ OS</h4>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Parrot%20OS-15E0ED?style=flat-square&logo=parrotsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux%20Mint-69B53F?style=flat-square&logo=linuxmint&logoColor=white" />
-<img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Parrot%20OS-15E3A5.svg?logo=parrotsecurity&logoColor=white" alt="Parrot OS">
+    <img src="https://custom-icon-badges.demolab.com/badge/Kali%20Linux-557C94.svg?logo=kalilinux&logoColor=white" alt="Kali Linux">
+    <img src="https://custom-icon-badges.demolab.com/badge/Debian-A81D33.svg?logo=debian&logoColor=white" alt="Debian">
+    <img src="https://custom-icon-badges.demolab.com/badge/Linux%20Mint-87CF3E.svg?logo=linuxmint&logoColor=white" alt="Linux Mint">
+    <img src="https://custom-icon-badges.demolab.com/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white" alt="Arch Linux">
+    <img src="https://custom-icon-badges.demolab.com/badge/Manjaro-35BF5C.svg?logo=manjaro&logoColor=white" alt="Manjaro">
+    <img src="https://custom-icon-badges.demolab.com/badge/Fedora-294172.svg?logo=fedora&logoColor=white" alt="Fedora">
 
 <br>
 
 <h4>💜 I Support</h4>
-<img src="https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
+    <img src="https://custom-icon-badges.demolab.com/badge/GNU-A42E2B.svg?logo=gnu&logoColor=white" alt="GNU">
+    <img src="https://custom-icon-badges.demolab.com/badge/Linux-1F1F1F.svg?logo=linux&logoColor=white" alt="Linux">
 <br>
-
-<img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white">
-<img src="https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">
-<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white">
-
+    <img src="https://custom-icon-badges.demolab.com/badge/Tor-7D4698.svg?logo=torproject&logoColor=white" alt="Tor">
+    <img src="https://custom-icon-badges.demolab.com/badge/Proton-6D4AFF.svg?logo=protonmail&logoColor=white" alt="Proton">
+    <img src="https://custom-icon-badges.demolab.com/badge/WireGuard-2F6F4E.svg?logo=wireguard&logoColor=white" alt="WireGuard">
 <br>
-
-<img src="https://img.shields.io/badge/Tails%20OS-56347C?style=for-the-badge&logo=tails&logoColor=white">
-<img src="https://img.shields.io/badge/Qubes%20OS-5E3B8C?style=for-the-badge&logo=qubesos&logoColor=white">
-
+    <img src="https://custom-icon-badges.demolab.com/badge/Tails-1F4E79.svg?logo=tails&logoColor=white" alt="Tails OS">
+    <img src="https://custom-icon-badges.demolab.com/badge/Qubes%20OS-5A3D9A.svg?logo=qubesos&logoColor=white" alt="Qubes OS">
 <br>
-
-<!-- <img src="https://img.shields.io/badge/Mozilla-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"> -->
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white">
-
+    <!-- <img src="https://img.shields.io/badge/Mozilla-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"> -->
+    <img src="https://custom-icon-badges.demolab.com/badge/OWASP-1F2937.svg?logo=owasp&logoColor=white" alt="OWASP">
+    
 <br>
 
 <!-- <img src="https://img.shields.io/badge/Internet%20Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white"> -->
