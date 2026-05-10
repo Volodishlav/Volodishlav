@@ -34,6 +34,29 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 ---
 
+### 🌍 Languages I Speak
+
+<div align="center">
+  <table>
+    <tr>
+    <!--<td align="center">
+        <img src="https://flagcdn.com/32x24/gb.png" width="32" alt="GB Flag">
+        <p><strong>English</strong></p>
+      </td>-->
+      <td align="center">
+        <img src="https://flagcdn.com/32x24/us.png" width="32" alt="US Flag">
+        <p><strong>English</strong></p>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/32x24/es.png" width="32" alt="ES Flag">
+        <p><strong>Spanish</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <div align="center">
 
 <h3>🔌 Technologies</h4>
@@ -44,7 +67,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 <br>
 
-<h4>🛠️ Other tools</h4>
+<h4>🛠️ Other Tools</h4>
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
@@ -60,7 +83,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 <br>
 
-<h4>💜 I support</h4>
+<h4>💜 I Support</h4>
 <img src="https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
