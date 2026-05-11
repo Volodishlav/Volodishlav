@@ -172,19 +172,21 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 ---
 
-### Find Me On
+### 🌐 Find Me On
 
 <div align="center">
+  <h4>⚔️ Codewars</h4>
   <a href="https://www.codewars.com/users/Volodishlav/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.codewars.com/users/Volodishlav/badges/large">
   </a>
 </div>
 <br>
-<div align="center">
+<!--<div align="center">
+  <h4>🐍 TryHackMe</h4>
   <a href="https://tryhackme.com/p/Vladimir783" target="_blank" rel="noopener noreferrer">
     <img src="./assets/thm_badge.svg">
   </a>
-</div>
+</div>-->
 
 ---
 
