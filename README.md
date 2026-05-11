@@ -30,7 +30,8 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 - ⚔️ Offensive cybersecurity
 - 🔎 Network and system analysis
 - 📝 Scripting, tooling, and automation
-- 🧠 Challenges, puzzles, and CTFs<br>
+- 🧠 Challenges, puzzles, and CTFs
+- ✨ Anime and games
 
 ---
 
