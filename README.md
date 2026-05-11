@@ -172,7 +172,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 ---
 
-### 🌐 Find Me On
+### ❕ Find Me On
 
 <div align="center">
   <h4>⚔️ Codewars</h4>
