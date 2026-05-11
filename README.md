@@ -172,6 +172,14 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Volodishlav&theme=darkhub&no-frame=true&no-bg=true&column=-1&row=3" />
+</p>
+
+---
+
 ### ❕ Find Me On
 
 <div align="center">
