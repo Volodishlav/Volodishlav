@@ -61,9 +61,9 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 <div align="center">
 
 <h3>🔌 Technologies</h4>
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,github,vercel,vim,vscode,docker,wordpress" /> <!-- ,django,flask,fastapi,mysql -->
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,github,vercel,vim,vscode,docker,wordpress" /> <!-- ,django,flask,fastapi,mysql
     
-    <!--<img src="https://custom-icon-badges.demolab.com/badge/Linux-1F1F1F.svg?logo=linux&logoColor=white" alt="Linux">
+    <img src="https://custom-icon-badges.demolab.com/badge/Linux-1F1F1F.svg?logo=linux&logoColor=white" alt="Linux">
     <img src="https://custom-icon-badges.demolab.com/badge/Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
     <img src="https://custom-icon-badges.demolab.com/badge/Arduino-00979D.svg?logo=arduino&logoColor=white" alt="Arduino">
     <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white" alt="Git">
@@ -83,9 +83,9 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
     <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL">-->
 
 <h3>⚙️ Programming and Markup Languages</h4>
-    <img src="https://skillicons.dev/icons?i=python,bash,html,css,markdown" /> <!-- ,nim -->
+    <img src="https://skillicons.dev/icons?i=python,bash,html,css,markdown" /> <!-- ,nim
     
-    <!--<img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python">
+    <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python">
     <img src="https://custom-icon-badges.demolab.com/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white" alt="Bash">
     <img src="https://custom-icon-badges.demolab.com/badge/Nim-2B2B2B.svg?logo=nim&logoColor=white" alt="Nim">
     <img src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white" alt="HTML">
