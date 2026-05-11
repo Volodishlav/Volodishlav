@@ -66,6 +66,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
     <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white" alt="Git">
     <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" alt="GitHub">
     <img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://custom-icon-badges.demolab.com/badge/Zsh-c5db27.svg?logo=terminal&logoColor=white" alt="Zsh">
     <img src="https://custom-icon-badges.demolab.com/badge/Vim-019833.svg?logo=vim&logoColor=white" alt="Vim">
     <img src="https://custom-icon-badges.demolab.com/badge/VSCode-007ACC.svg?logo=visualstudiocode&logoColor=white" alt="VSCode">
     <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white" alt="Docker">
@@ -95,6 +96,7 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
     <img src="https://custom-icon-badges.demolab.com/badge/Metasploit-2E2E2E.svg?logo=metasploit&logoColor=white" alt="Metasploit">
     <img src="https://custom-icon-badges.demolab.com/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white" alt="Wireshark">
     <img src="https://custom-icon-badges.demolab.com/badge/Splunk-d4245c.svg?logo=splunk&logoColor=white" alt="Splunk">
+    <img src="https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-006699.svg?logo=cpu&logoColor=white" alt="Cheat Engine">
 
 <h4>🖥️ OS</h4>
     <img src="https://custom-icon-badges.demolab.com/badge/Parrot%20OS-15E3A5.svg?logo=parrotsecurity&logoColor=white" alt="Parrot OS">
