@@ -39,13 +39,13 @@
   </g>
 
   <text x="28" y="68" fill="#F8E8FF" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="30" font-weight="700">Vladimir783</text>
-  <text x="28" y="92" fill="#A479C4" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="11" font-weight="500" letter-spacing="1.2">[0x5] VISIONARY · BRONZE LEAGUE</text>
+  <text x="28" y="92" fill="#A479C4" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="11" font-weight="500" letter-spacing="1.2">[0x6] VOYAGER · BRONZE LEAGUE</text>
   <g transform="translate(280,80)">
     <rect x="6" y="0" width="6" height="6" rx="0.8" fill="url(#capGrad)" transform="rotate(45 9 3)"/>
     <rect x="0" y="6" width="6" height="6" rx="0.8" fill="url(#capGrad)" transform="rotate(45 3 9)"/>
     <rect x="12" y="6" width="6" height="6" rx="0.8" fill="url(#capGrad)" transform="rotate(45 15 9)"/>
     <rect x="6" y="12" width="6" height="6" rx="0.8" fill="url(#capGrad)" transform="rotate(45 9 15)"/>
-    <text x="24" y="13" fill="#F8E8FF" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="11" font-weight="700" letter-spacing="1.2">36</text>
+    <text x="24" y="13" fill="#F8E8FF" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="11" font-weight="700" letter-spacing="1.2">40</text>
     <text x="42" y="13" fill="#A479C4" font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" font-size="11" font-weight="500" letter-spacing="1.2">CAPABILITY</text>
   </g>
 
@@ -59,16 +59,16 @@
   <rect x="28" y="106" width="584" height="1" fill="url(#accentGrad)"/>
 
   <g font-family="ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace" text-anchor="middle">
-    <text x="98"  y="142" fill="#F8E8FF" font-size="24" font-weight="700">22</text>
+    <text x="98"  y="142" fill="#F8E8FF" font-size="24" font-weight="700">25</text>
     <text x="98"  y="161" fill="#A479C4" font-size="9"  font-weight="600" letter-spacing="2.2">ROOMS</text>
 
     <text x="246" y="142" fill="#F8E8FF" font-size="24" font-weight="700">5</text>
     <text x="246" y="161" fill="#A479C4" font-size="9"  font-weight="600" letter-spacing="2.2">BADGES</text>
 
-    <text x="394" y="142" fill="#F8E8FF" font-size="24" font-weight="700">1,903</text>
+    <text x="394" y="142" fill="#F8E8FF" font-size="24" font-weight="700">2,023</text>
     <text x="394" y="161" fill="#A479C4" font-size="9"  font-weight="600" letter-spacing="2.2">POINTS</text>
 
-    <text x="542" y="142" fill="#00F0FF" font-size="24" font-weight="700">0x5</text>
+    <text x="542" y="142" fill="#00F0FF" font-size="24" font-weight="700">0x6</text>
     <text x="542" y="161" fill="#A479C4" font-size="9"  font-weight="600" letter-spacing="2.2">LEVEL</text>
   </g>
 
