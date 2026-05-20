@@ -41,10 +41,6 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
 <div style="margin-left: 10px;">
   <table>
     <tr>
-    <!--<td align="center">
-        <img src="https://flagcdn.com/32x24/gb.png" width="32" alt="GB Flag">
-        <p><strong>English</strong></p>
-      </td>-->
       <td align="center">
         <img src="https://flagcdn.com/32x24/us.png" width="32" alt="US Flag">
         <p><strong>English</strong></p>
@@ -56,9 +52,9 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
     </tr>
   </table>
 </div>
-
----
 -->
+---
+
 
 <div align="center">
 
