@@ -52,9 +52,9 @@ Passionate about cybersecurity and pentesting, with a practical focus on analyzi
     </tr>
   </table>
 </div>
--->
----
 
+---
+-->
 
 <div align="center">
 
